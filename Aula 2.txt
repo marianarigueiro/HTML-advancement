@@ -1,0 +1,19 @@
+Representação de dados:
+
+O computador sempre vê em 0 e 1.
+
+1024 bytes = 1 KB
+1024 KB = 1 MB
+1024 MB = 1 GB
+1024 GB = 1 TB
+1024 TB = 1 PB
+1024 PB = 1 EB
+1024 EB = 1 ZB
+1024 ZB = 1 YB
+
+B = BYTES 
+b = bits
+
+Como nos conectamos?
+
+Como acessamos servidores?

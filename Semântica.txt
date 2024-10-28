@@ -1,0 +1,3 @@
+O HTML está focado na semântica que é o significado.
+
+A forma é aplicada no CSS 3.

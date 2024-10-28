@@ -1,0 +1,3 @@
+Small = Leia as letras pequenas.
+
+Big = Só é forma.
